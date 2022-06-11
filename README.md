@@ -1,4 +1,4 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English** | [中文](#中文介绍) | [P3terx中文介绍](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
 
@@ -42,3 +42,6 @@ A template for building OpenWrt with GitHub Actions
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+
+# 中文介绍
+此处填写中文介绍。
